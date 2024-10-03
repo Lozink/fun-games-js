@@ -1,0 +1,40 @@
+body {
+    background:linear-gradient(#e66465, #9198e5);
+    background-attachment: fixed;
+}
+table {
+    position: absolute;
+    text-align: center;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 20%;
+    height: 50%;
+    font-size: 4em;
+    border-radius: 50px;
+    padding: 20px;
+    border-spacing: 20px;
+    border-collapse: separate;
+    background-image: linear-gradient(to right top, #79f275, #ced23c, #ffab44, #ff876f, #ff74a1, #f484c8, #de97e8, #c1aaff, #a4bfff, #94d0ff, #97ddff, #aae8f7);
+}
+
+table, th, td {
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+
+td {
+    padding: 0px 20px 0px 20px;
+    background-color: lightgrey;
+}
+thead {
+    text-align: right;
+    background-color: lightgrey;
+}
+
+#total {
+    padding-right: 18px;
+}
