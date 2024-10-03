@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(84, 84, 84);
+    text-align: center;
+    color : white;
+    font-size: x-large;
+    margin: 3cm;
+}
+
+#hour {
+    font-size: 6em;
+    margin-bottom: 1cm;
+}
+
+#date {
+    font-size: 2em;
+}
+
+footer {
+    font-size: xx-large;
+}
