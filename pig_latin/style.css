@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+header {
+    font-size: 1cm;
+}
+
+div > p {
+    font-size: 0.5cm;
+}
+
+#areas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+textarea {
+    width: 660px;
+    height: 500px;
+    margin-right: 10px;
+    font-size: 25px;
+    padding: 10px;
+    
+}
+
+#text_translated {
+    width: 660px;
+    height: 500px;
+    border: 1px black solid;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 25px;
+    padding: 10px;
+}
+
+button {
+    margin: 20px;
+}
